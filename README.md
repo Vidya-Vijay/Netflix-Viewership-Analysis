@@ -4,15 +4,17 @@ Statistical analysis of factors influencing viewer engagement on Netflix using r
 
 ---
 
-## 📊 Project Overview
 
-Analyzed 240 Netflix titles over 6 months to understand how factors such as ratings, awards, genre, and content type impact viewership.
-The main goal of this project is to analyze Netflix's data to improve business strategies, specifically the Recommendation Systems. This includes studying viewership data from January to June 2023 along with IMDb ratings.
----
+## 🧠 Project Overview
 
-## 🧠 Business Problem
+The primary objective of this project is to conduct a thorough data analysis on Netflix, employing data from its vast repository of movies and TV series to enhance business strategies, particularly by improving Netflix's Recommendation Systems. This will involve analyzing viewership statistics provided by Netflix, spanning from January to June 2023, in tandem with IMDb ratings.
 
-Streaming platforms need to understand what drives engagement to optimize content strategy and recommendations.
+**Research questions**
+1.	What factors influence the viewership of a movie or TV show on Netflix?
+2.	What genre garners the highest preference among viewers?
+3.	Which combination of content type and genre leads to high viewership?
+4.	How can the insights gained from this analysis be utilized to develop business strategies tailored to viewer preferences?
+
 
 ---
 ## Limitations
@@ -60,6 +62,10 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 ## 📈 Key Insights
 
 <img width="799" height="268" alt="image" src="https://github.com/user-attachments/assets/98243da7-348b-4ad3-aaeb-501a5df112d9" />
+<img width="941" height="343" alt="image" src="https://github.com/user-attachments/assets/495d7b3a-875e-4e8d-9806-2bcb8c7051fb" />
+<img width="1045" height="469" alt="image" src="https://github.com/user-attachments/assets/6c7fdc44-0b60-484d-a2f3-5544b8b90bae" />
+
+
 
 
 - IMDb ratings and award nominations positively impact viewership
