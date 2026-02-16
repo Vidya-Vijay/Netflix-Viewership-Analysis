@@ -103,10 +103,3 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 Shows application of statistical modeling techniques to real-world business problems and translating results into actionable insights.
 
 
-## 📂 Repository Structure
-
-/data
-/analysis
-/dashboard
-/images
-README.md
