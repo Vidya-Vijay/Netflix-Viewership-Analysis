@@ -84,9 +84,11 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 
 
 
-## 📊 Natflix Viewership Dashboard
+## 📊 Netflix Viewership Dashboard
 
-<img width="1916" height="984" alt="tableau" src="https://github.com/user-attachments/assets/005b84f9-406c-420a-90da-4a1a0a509c13" />
+<Images/Dashboard.png>
+
+
 
 
 ---
