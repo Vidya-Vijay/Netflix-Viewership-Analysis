@@ -62,10 +62,7 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 ## 📈 Key Insights
 
 <img width="799" height="268" alt="image" src="https://github.com/user-attachments/assets/98243da7-348b-4ad3-aaeb-501a5df112d9" />
-<img width="941" height="343" alt="image" src="https://github.com/user-attachments/assets/495d7b3a-875e-4e8d-9806-2bcb8c7051fb" />
-<img width="1045" height="469" alt="image" src="https://github.com/user-attachments/assets/6c7fdc44-0b60-484d-a2f3-5544b8b90bae" />
-
-
+<img width="941" height="343" alt="image" src="https://github.com/user-attachments/assets/495d7b3a-875e-4e8d-9806-2bcb8c7051fb" /> 
 
 
 - IMDb ratings and award nominations positively impact viewership
@@ -83,29 +80,21 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 
 ---
 
-## 📊 Dashboard
 
-Tableau dashboard visualizes:
-- Viewership trends
-- Genre distribution
-- Content performance
+
+
+
+## 📊 Natflix Viewership Dashboard
+
+<img width="1916" height="984" alt="tableau" src="https://github.com/user-attachments/assets/005b84f9-406c-420a-90da-4a1a0a509c13" />
+
 
 ---
-
 ## 🚀 Business Impact
 
 - Supports data-driven content strategy
 - Improves engagement optimization
 - Enables targeted marketing
-
----
-
-
----
-
-## 📎 Project Link
-
-[View Dashboard / Portfolio Page]
 
 ---
 
