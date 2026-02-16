@@ -61,8 +61,7 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 
 ## 📈 Key Insights
 
-<img width="799" height="268" alt="image" src="https://github.com/user-attachments/assets/98243da7-348b-4ad3-aaeb-501a5df112d9" />
-<img width="941" height="343" alt="image" src="https://github.com/user-attachments/assets/495d7b3a-875e-4e8d-9806-2bcb8c7051fb" /> 
+<img width="799" height="268" alt="image" src="Images/MLRnetflix.png" />
 
 
 - IMDb ratings and award nominations positively impact viewership
@@ -86,10 +85,7 @@ The viewership data collected from Netflix’s engagement report cannot provide 
 
 ## 📊 Netflix Viewership Dashboard
 
-<Images/Dashboard.png>
-
-
-
+<img src= "https://github.com/Vidya-Vijay/Netflix-Viewership-Analysis/blob/1de0d4b24e7a68fd313b984c38c082cc2df0bab0/Images/Dashboard.png" />
 
 ---
 ## 🚀 Business Impact
